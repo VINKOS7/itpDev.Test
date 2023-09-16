@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ITPDev.Test.Api.props" />
+</Project>

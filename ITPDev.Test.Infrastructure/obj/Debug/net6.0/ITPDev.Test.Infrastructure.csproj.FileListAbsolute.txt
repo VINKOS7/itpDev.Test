@@ -1,0 +1,15 @@
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Infrastructure\bin\Debug\net6.0\ITPDev.Test.Infrastructure.deps.json
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Infrastructure\bin\Debug\net6.0\ITPDev.Test.Infrastructure.dll
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Infrastructure\bin\Debug\net6.0\ITPDev.Test.Infrastructure.pdb
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Infrastructure\obj\Debug\net6.0\ITPDev.Test.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Infrastructure\obj\Debug\net6.0\ITPDev.Test.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Infrastructure\obj\Debug\net6.0\ITPDev.Test.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Infrastructure\obj\Debug\net6.0\ITPDev.Test.Infrastructure.AssemblyInfo.cs
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Infrastructure\obj\Debug\net6.0\ITPDev.Test.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Infrastructure\obj\Debug\net6.0\ITPDev.Test.Infrastructure.dll
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Infrastructure\obj\Debug\net6.0\refint\ITPDev.Test.Infrastructure.dll
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Infrastructure\obj\Debug\net6.0\ITPDev.Test.Infrastructure.pdb
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Infrastructure\obj\Debug\net6.0\ref\ITPDev.Test.Infrastructure.dll
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Infrastructure\bin\Debug\net6.0\ITPDev.Test.Domain.dll
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Infrastructure\bin\Debug\net6.0\ITPDev.Test.Domain.pdb
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Infrastructure\obj\Debug\net6.0\ITPDev.Test.Infrastructure.csproj.CopyComplete

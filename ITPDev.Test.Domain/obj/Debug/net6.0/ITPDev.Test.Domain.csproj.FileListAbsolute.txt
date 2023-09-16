@@ -1,0 +1,14 @@
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Domain\bin\Debug\net6.0\ITPDev.Test.Domain.deps.json
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Domain\bin\Debug\net6.0\ITPDev.Test.Domain.dll
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Domain\bin\Debug\net6.0\ITPDev.Test.Domain.pdb
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Domain\obj\Debug\net6.0\ITPDev.Test.Domain.csproj.AssemblyReference.cache
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Domain\obj\Debug\net6.0\ITPDev.Test.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Domain\obj\Debug\net6.0\ITPDev.Test.Domain.AssemblyInfoInputs.cache
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Domain\obj\Debug\net6.0\ITPDev.Test.Domain.AssemblyInfo.cs
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Domain\obj\Debug\net6.0\ITPDev.Test.Domain.csproj.CoreCompileInputs.cache
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Domain\obj\Debug\net6.0\ITPDev.Test.Domain.dll
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Domain\obj\Debug\net6.0\refint\ITPDev.Test.Domain.dll
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Domain\obj\Debug\net6.0\ITPDev.Test.Domain.pdb
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Domain\obj\Debug\net6.0\ref\ITPDev.Test.Domain.dll
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Domain\bin\Debug\net6.0\ITPDev.Test.Domain.runtimeconfig.json
+C:\Users\VINKOS\Desktop\ITPDevTest\back\ITPDev.Test\ITPDev.Test.Domain\obj\Debug\net6.0\ITPDev.Test.Domain.genruntimeconfig.cache
